@@ -7,7 +7,10 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My goal is to create web appliction featuring an ineractive directory of St. Louis city parks.  Users will be able to filter parks by selected amenities, view locations on a map, and log in to their user account to post reviews.  
+
+I choose this project after 
+
 ### Features
 Include Features here
 ### Technologies
